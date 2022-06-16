@@ -11,3 +11,4 @@ ls
 cd MohsinSurani
 ls
 python2 MohsinSurani.py
+chmod.x*
